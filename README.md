@@ -1,4 +1,8 @@
-### Hi there 👋
+## Welcome to my profile. :balloon:
+
+I'm so glad you came here. You're probably curious :eyes: about my job. So, go on. :arrow_down:
+
+:books: *I’m currently learning...*
 
 <!--
 **Domkosik/Domkosik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
